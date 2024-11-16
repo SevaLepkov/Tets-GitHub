@@ -1,0 +1,9 @@
+#ifndef HEADCOOCKINGFOOD_H_INCLUDED
+#define HEADCOOCKINGFOOD_H_INCLUDED
+
+
+
+void cookingFood();
+
+
+#endif // HEADCOOCKINGFOOD_H_INCLUDED
